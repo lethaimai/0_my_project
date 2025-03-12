@@ -1,0 +1,154 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "ear_1",
+            "points": [
+                [
+                    93.26732673267324,
+                    217.72277227722773
+                ],
+                [
+                    224.45544554455444,
+                    320.1980198019802
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ear_2",
+            "points": [
+                [
+                    475.4455445544554,
+                    221.1881188118812
+                ],
+                [
+                    600.1980198019802,
+                    326.13861386138615
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "hatch_handle",
+            "points": [
+                [
+                    153.66336633663366,
+                    346.9306930693069
+                ],
+                [
+                    206.1386138613861,
+                    395.44554455445547
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "black_hole",
+            "points": [
+                [
+                    427.9207920792079,
+                    347.92079207920796
+                ],
+                [
+                    472.9702970297029,
+                    390.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "multimeter_connector",
+            "points": [
+                [
+                    443.26732673267327,
+                    387.029702970297
+                ],
+                [
+                    513.5643564356435,
+                    459.3069306930693
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "blue_button",
+            "points": [
+                [
+                    599.2079207920792,
+                    347.92079207920796
+                ],
+                [
+                    638.3168316831683,
+                    383.0693069306931
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "red_button",
+            "points": [
+                [
+                    618.5148514851485,
+                    386.53465346534654
+                ],
+                [
+                    639.0,
+                    425.06624233851966
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "black_surface",
+            "points": [
+                [
+                    36.83168316831682,
+                    291.980198019802
+                ],
+                [
+                    631.8811881188119,
+                    296.9306930693069
+                ],
+                [
+                    634.8514851485148,
+                    475.1485148514852
+                ],
+                [
+                    0.6930693069306813,
+                    460.7920792079208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "image_319.jpg",
+    "imageData": null,
+    "imageHeight": 480,
+    "imageWidth": 640
+}

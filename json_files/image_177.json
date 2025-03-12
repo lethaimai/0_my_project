@@ -1,0 +1,213 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "blue_button",
+            "points": [
+                [
+                    178.4158415841584,
+                    11.287128712871294
+                ],
+                [
+                    205.64356435643563,
+                    35.54455445544556
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "red_button",
+            "points": [
+                [
+                    207.12871287128706,
+                    8.811881188118814
+                ],
+                [
+                    232.87128712871282,
+                    35.04950495049505
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "black_hole",
+            "points": [
+                [
+                    185.34653465346534,
+                    117.22772277227725
+                ],
+                [
+                    211.58415841584159,
+                    143.4653465346535
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "multimeter_connector",
+            "points": [
+                [
+                    225.44554455445547,
+                    113.26732673267327
+                ],
+                [
+                    260.5940594059406,
+                    142.4752475247525
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "slider",
+            "points": [
+                [
+                    310.0990099009901,
+                    77.12871287128715
+                ],
+                [
+                    334.8514851485148,
+                    95.94059405940595
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "red_comp",
+            "points": [
+                [
+                    268.019801980198,
+                    1.8811881188118869
+                ],
+                [
+                    364.05940594059405,
+                    43.960396039603964
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "slider",
+            "points": [
+                [
+                    202.17821782178217,
+                    264.7524752475248
+                ],
+                [
+                    231.8811881188119,
+                    299.4059405940595
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ear_2",
+            "points": [
+                [
+                    78.41584158415839,
+                    12.277227722772283
+                ],
+                [
+                    168.019801980198,
+                    100.8910891089109
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ear_1",
+            "points": [
+                [
+                    94.25742574257424,
+                    265.2475247524753
+                ],
+                [
+                    181.88118811881188,
+                    356.83168316831683
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "black_surface",
+            "points": [
+                [
+                    132.77227722772324,
+                    0.7920792079206933
+                ],
+                [
+                    152.87128712871277,
+                    421.0891089108907
+                ],
+                [
+                    414.257425742575,
+                    409.7029702970292
+                ],
+                [
+                    410.49504950495134,
+                    2.772277227722668
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "multimeter_probe",
+            "points": [
+                [
+                    100.19801980198017,
+                    380.5940594059406
+                ],
+                [
+                    331.88118811881185,
+                    365.2475247524752
+                ],
+                [
+                    335.3465346534653,
+                    392.47524752475243
+                ],
+                [
+                    103.16831683168314,
+                    402.8712871287128
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "image_177.jpg",
+    "imageData": null,
+    "imageHeight": 480,
+    "imageWidth": 640
+}

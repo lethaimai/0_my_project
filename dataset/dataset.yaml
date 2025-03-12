@@ -1,0 +1,20 @@
+# Path to the dataset folder
+path: /home/lethaimai/Desktop/master/0_my_project/dataset # Replace this with the absolute path to your dataset folder
+
+# Paths to training and validation images
+train: images/train  # Relative to the dataset folder
+val: images/val      # Relative to the dataset folder
+
+# Class names
+names:
+  0: ear_1
+  1: ear_2
+  2: black_surface
+  3: slider
+  4: hatch_handle
+  5: multimeter_probe
+  6: multimeter_connector
+  7: blue_button
+  8: red_button
+  9: red_comp
+  10: black_hole
