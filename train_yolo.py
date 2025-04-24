@@ -1,25 +1,27 @@
 from ultralytics import YOLO
 import logging
 
-# Configure logging to display in console
+# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Print confirmation
-print("Starting YOLO training process...")
+print("Starting YOLO pose estimation training...")
 
-# Load a pre-trained YOLO model
-model = YOLO('yolov8n.pt')
+# Load a pre-trained YOLO pose model
+model = YOLO('yolov8n-pose.pt')  # Pose model for keypoint detection
 print(f"Model loaded successfully: {model}")
 
 # Train the model
 results = model.train(
-    data='/home/lethaimai/Desktop/master/0_my_project/dataset/dataset.yaml',
-    epochs=100,
-    imgsz=640,
-    batch=16,
-    name='yolo_custom_model',
-    verbose=True,  # Force verbose output
-    device= 0
+    data='/Users/cedric/0_my_project/dataset/dataset.yaml',  # Path to dataset.yaml
+    epochs=10,  # Reduced for testing; increase for full training
+    imgsz=640,  # Image size
+    batch=8,    # Batch size for CPU
+    name='yolo_pose_model',  # Output directory name
+    project='/Users/cedric/0_my_project/runs',  # Explicit output path
+    verbose=True,  # Detailed logging
+    device='mps',  # Use CPU (no GPU available)
+    task='pose'    # Pose estimation task
 )
 
 print("Training finished!")

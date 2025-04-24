@@ -1,0 +1,224 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "blue_button",
+      "points": [
+        [
+          326.9306930693069,
+          263.26732673267327
+        ],
+        [
+          356.1386138613861,
+          294.950495049505
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_button",
+      "points": [
+        [
+          360.0990099009901,
+          264.7524752475247
+        ],
+        [
+          389.8019801980198,
+          295.4455445544554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_comp",
+      "points": [
+        [
+          451.6831683168317,
+          253.86138613861385
+        ],
+        [
+          570.0,
+          315.24752475247533
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ear_2",
+      "points": [
+        [
+          208.1188118811881,
+          272.1782178217822
+        ],
+        [
+          298.2178217821782,
+          383.0693069306931
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "multimeter_connector",
+      "points": [
+        [
+          378.9108910891089,
+          401.3861386138614
+        ],
+        [
+          418.019801980198,
+          439.5049504950495
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "black_hole",
+      "points": [
+        [
+          324.9504950495049,
+          394.950495049505
+        ],
+        [
+          356.63366336633663,
+          426.63366336633663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "slider",
+      "points": [
+        [
+          487.3267326732672,
+          357.8217821782178
+        ],
+        [
+          518.5148514851484,
+          380.0990099009901
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "black_surface",
+      "points": [
+        [
+          273.46534653465346,
+          207.82178217821783
+        ],
+        [
+          619.2299229922992,
+          479.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "center_ear_2",
+      "points": [
+        [
+          240.2020202020202,
+          316.7676767676768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_blue_button",
+      "points": [
+        [
+          342.22222222222223,
+          278.3838383838384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_red_button",
+      "points": [
+        [
+          374.04040404040404,
+          278.3838383838384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_black_hole",
+      "points": [
+        [
+          338.1818181818182,
+          411.21212121212125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_multimeter_connector",
+      "points": [
+        [
+          396.7676767676768,
+          416.7676767676768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_red_comp",
+      "points": [
+        [
+          542.2222222222223,
+          284.949494949495
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "image_261.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

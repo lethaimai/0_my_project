@@ -1,0 +1,211 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "blue_button",
+      "points": [
+        [
+          381.38613861386136,
+          231.0891089108911
+        ],
+        [
+          415.5445544554455,
+          271.18811881188117
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_button",
+      "points": [
+        [
+          418.5148514851485,
+          230.5940594059406
+        ],
+        [
+          455.6435643564356,
+          271.6831683168317
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "multimeter_connector",
+      "points": [
+        [
+          445.2475247524752,
+          389.5049504950495
+        ],
+        [
+          494.7524752475248,
+          440.4950495049505
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_comp",
+      "points": [
+        [
+          523.4653465346535,
+          214.75247524752476
+        ],
+        [
+          639.0,
+          289.3381376112295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ear_2",
+      "points": [
+        [
+          236.83168316831683,
+          240.4950495049505
+        ],
+        [
+          357.6237623762376,
+          375.1485148514851
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "slider",
+      "points": [
+        [
+          576.9306930693069,
+          336.03960396039605
+        ],
+        [
+          614.5544554455445,
+          362.7722772277228
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "black_hole",
+      "points": [
+        [
+          372.47524752475243,
+          389.5049504950495
+        ],
+        [
+          420.990099009901,
+          433.56435643564356
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "black_surface",
+      "points": [
+        [
+          304.15841584158414,
+          151.3861386138614
+        ],
+        [
+          639.0,
+          477.3249923219796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "center_ear_2",
+      "points": [
+        [
+          275.88235294117646,
+          292.69607843137254
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_blue_button",
+      "points": [
+        [
+          398.43137254901956,
+          250.04901960784315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_red_button",
+      "points": [
+        [
+          436.17647058823525,
+          250.04901960784315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_black_hole",
+      "points": [
+        [
+          400.3921568627451,
+          410.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_multimeter_connector",
+      "points": [
+        [
+          471.96078431372547,
+          413.77450980392155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "image_201.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
