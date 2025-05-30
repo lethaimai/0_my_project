@@ -1,0 +1,314 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "slider",
+      "points": [
+        [
+          433.36633663366337,
+          234.55445544554456
+        ],
+        [
+          465.049504950495,
+          274.6534653465347
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "hatch_handle",
+      "points": [
+        [
+          165.54455445544554,
+          96.43564356435644
+        ],
+        [
+          207.6237623762376,
+          137.52475247524757
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "multimeter_connector",
+      "points": [
+        [
+          366.039603960396,
+          122.67326732673268
+        ],
+        [
+          416.039603960396,
+          173.66336633663366
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "blue_button",
+      "points": [
+        [
+          498.7128712871287,
+          92.47524752475249
+        ],
+        [
+          533.3663366336633,
+          123.16831683168317
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_button",
+      "points": [
+        [
+          499.2079207920792,
+          123.66336633663367
+        ],
+        [
+          537.3267326732673,
+          150.39603960396042
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "black_hole",
+      "points": [
+        [
+          366.03960396039605,
+          95.94059405940597
+        ],
+        [
+          404.1584158415842,
+          128.1188118811882
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "red_comp",
+      "points": [
+        [
+          499.2079207920792,
+          179.6039603960396
+        ],
+        [
+          591.7821782178218,
+          305.84158415841586
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "black_surface",
+      "points": [
+        [
+          8.415841584158436,
+          51.18811881188108
+        ],
+        [
+          634.3564356435645,
+          384.05940594059405
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "multimeter_probe",
+      "points": [
+        [
+          5.148514851485139,
+          8.811881188118816
+        ],
+        [
+          88.31683168316829,
+          258.31683168316835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ear_1",
+      "points": [
+        [
+          111.58415841584156,
+          1.3861386138613927
+        ],
+        [
+          220.4950495049505,
+          90.49504950495052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ear_2",
+      "points": [
+        [
+          409.60396039603955,
+          1.3861386138613896
+        ],
+        [
+          517.5247524752474,
+          88.51485148514851
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "center_hatch_handle",
+      "points": [
+        [
+          187.4019607843137,
+          114.50980392156863
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_black_hole",
+      "points": [
+        [
+          385.9313725490196,
+          111.5686274509804
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_multimeter_connector",
+      "points": [
+        [
+          392.68518518518516,
+          140.23148148148152
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_multimeter_probe",
+      "points": [
+        [
+          53.79629629629632,
+          113.84259259259262
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_ear_1",
+      "points": [
+        [
+          151.4814814814815,
+          23.10185185185189
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_ear_2",
+      "points": [
+        [
+          479.25925925925924,
+          18.47222222222226
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_red_button",
+      "points": [
+        [
+          523.7037037037037,
+          133.28703703703707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_blue_button",
+      "points": [
+        [
+          517.7941176470588,
+          107.15686274509805
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "center_red_comp",
+      "points": [
+        [
+          553.0882352941176,
+          269.90196078431376
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "image_31.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

@@ -1,9 +1,13 @@
 # Path to the dataset folder
-path: /home/lethaimai/Desktop/master/0_my_project/dataset # Replace this with the absolute path to your dataset folder
+path: /Users/cedric/0_my_project/dataset # Absolute path to the dataset folder
 
 # Paths to training and validation images
 train: images/train  # Relative to the dataset folder
 val: images/val      # Relative to the dataset folder
+
+# Number of classes and keypoints
+nc: 20  # Number of classes
+kpt_shape: [2, 3]  # [num_keypoints, 3] (x, y, visibility for each keypoint)
 
 # Class names
 names:
@@ -18,3 +22,13 @@ names:
   8: red_button
   9: red_comp
   10: black_hole
+  11: center_black_hole
+  12: center_red_comp
+  13: center_red_button
+  14: center_blue_button
+  15: center_multimeter_connector
+  16: center_multimeter_probe
+  17: center_hatch_handle
+  18: center_ear_2
+  19: center_ear_1
+
